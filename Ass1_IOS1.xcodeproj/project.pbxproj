@@ -36,6 +36,7 @@
 		A10B7B6D25C6E07800958002 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 		A10B7B6E25C6E07800958002 /* TableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TableViewCell.xib; sourceTree = "<group>"; };
 		A10B7B7225C6E1D400958002 /* HistoryItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryItem.swift; sourceTree = "<group>"; };
+		A152C95325D1AD9B0028320C /* terminal.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = terminal.sh; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +53,7 @@
 		A10B7B3825C16EA000958002 = {
 			isa = PBXGroup;
 			children = (
+				A152C95325D1AD9B0028320C /* terminal.sh */,
 				A10B7B4325C16EA000958002 /* Ass1_IOS1 */,
 				A10B7B4225C16EA000958002 /* Products */,
 			);
